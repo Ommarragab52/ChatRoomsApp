@@ -38,12 +38,20 @@ This project follows the MVVM architecture pattern, which separates the app into
 - ViewModel for managing and persisting UI state across configuration changes
 
 ## Screenshots
-![Screenshot_1724592112](https://github.com/user-attachments/assets/41448a1b-c64f-4b5f-9322-eb292eb09bc5)
-![Screenshot_1724592116](https://github.com/user-attachments/assets/a7f583f4-658b-4b51-85d5-2a897f102028)
-![Screenshot_1724592191](https://github.com/user-attachments/assets/ecd32bb3-96d6-4923-97fc-fae8e05fffd1)
-![Screenshot_1724592121](https://github.com/user-attachments/assets/ed9ada9a-5f9b-427c-aad8-e9f55cd5e84a)
-![Screenshot_1724592149](https://github.com/user-attachments/assets/f57cd185-07fb-43ce-bcb2-fc0ad277d21b)
-![Screenshot_1724592180](https://github.com/user-attachments/assets/ec28989a-bece-46f8-9f8d-4ecb11ee5467)
 
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/41448a1b-c64f-4b5f-9322-eb292eb09bc5" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a7f583f4-658b-4b51-85d5-2a897f102028" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ecd32bb3-96d6-4923-97fc-fae8e05fffd1" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ed9ada9a-5f9b-427c-aad8-e9f55cd5e84a" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f57cd185-07fb-43ce-bcb2-fc0ad277d21b" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ec28989a-bece-46f8-9f8d-4ecb11ee5467" width="300"></td>
+  </tr>
+</table>
 
 
